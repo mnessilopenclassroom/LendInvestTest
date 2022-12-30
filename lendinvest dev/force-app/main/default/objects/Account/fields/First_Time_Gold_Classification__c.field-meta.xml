@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>First_Time_Gold_Classification__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>flag to know if it s the first time that the account reach the gold classification</description>
+    <externalId>false</externalId>
+    <inlineHelpText>flag to know if it s the first time that the account reach the gold classification</inlineHelpText>
+    <label>First Time Gold Classification</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
